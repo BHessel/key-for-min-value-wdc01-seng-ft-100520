@@ -7,14 +7,8 @@ def key_for_min_value(name_hash)
     binding.pry
     if lowval == nil || value < lowval
       lowval = value
-      
-      
+      lowkey = key
       end
-    lowkey = name_hash[0][0]
     lowkey
 end
 end
-
-
-#Q's for teacher
-#Can I get the value from a key/value pair by calling the whole pair?
