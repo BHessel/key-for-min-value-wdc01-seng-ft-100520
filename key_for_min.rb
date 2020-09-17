@@ -11,3 +11,7 @@ def key_for_min_value(name_hash)
     lowkey
 end
 end
+
+
+#Q's for teacher
+#Can I get the value from a key/value pair by calling the whole pair?
